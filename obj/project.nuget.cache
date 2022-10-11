@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TnhjHFXMTjybScUYQ0k6RyPPM2fdcnv1RZLHf8y9JrRf6uU8fxEQk/Rv8A59NgZWDobmuORzZZcUJN/gCzRisw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Uni\\ЛМВз\\lab2\\Weightening1\\Weightening1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\materialdesigncolors\\2.0.9\\materialdesigncolors.2.0.9.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\materialdesignthemes\\4.6.1\\materialdesignthemes.4.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
